@@ -8,7 +8,7 @@ import ShopCategory from './Pages/ShopCategory.jsx';
 import Product from './Pages/Product.jsx';
 import Cart from './Pages/Cart.jsx';
 import LoginSignup from './Pages/LoginSignup.jsx';
-import Hero from './Components/Hero/Hero.jsx';
+
 
 function App() {
   return (
@@ -30,7 +30,7 @@ function App() {
       </Routes>
       </BrowserRouter>
 
-      <Hero></Hero>
+      
      
     </>
   );
